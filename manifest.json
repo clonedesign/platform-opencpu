@@ -11,9 +11,7 @@
         {
             "url": "http://wizio.eu/platformio/tool-opencpu-1.0.0.tar.gz", 
             "sha1": "", 
-            "system": [
-                "*"
-            ], 
+            "system": "*", 
             "version": "1.0.0"
         }
     ], 
@@ -21,9 +19,7 @@
         {
             "url": "http://wizio.eu/platformio/toolchain-opencpu-4.8.3.tar.gz", 
             "sha1": "", 
-            "system": [
-                "*"
-            ],  
+            "system": "*",
             "version": "4.8.3"
         }
     ]
